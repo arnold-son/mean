@@ -28,8 +28,9 @@ function caller2(param){
         }
     },2000);
     console.log("ending?")
-    // return "interesting";
+    return "interesting";
 }
-console.log(multiplyByTen(5));
-caller(runningLogger);
-caller2(myDoubleConsoleLog);
+
+// console.log(multiplyByTen(5));
+// caller(runningLogger);
+// caller2(myDoubleConsoleLog);
